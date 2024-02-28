@@ -1,0 +1,12 @@
+in  terminal:
+pip install streamlit transformers
+pip install transformers
+
+
+to run streamlit:
+streamlit run app.py
+streamlit run c:/Users/shanm/OneDrive/Desktop/notes/sentimentalhug/app.py
+
+
+Run the Python File:
+python app.py
